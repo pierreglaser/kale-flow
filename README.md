@@ -52,7 +52,7 @@ conda install matplotlib ipympl pandas
 @inproceedings{glaser2021kale,
   author={Pierre Glaser, Michael Arbel, Arthur Gretton},
   title={{KALE Flow: A Relaxed KL Gradient Flow for Probabilities with Disjoint Support}},
-  booktitle={Neural Information Processing Systems},
+  booktitle={Advances in Neural Information Processing Systems},
   year={2021},
 }
 ```
